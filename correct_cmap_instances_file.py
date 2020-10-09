@@ -1,9 +1,9 @@
 #!/usr/bin python3
 
+# CMAP instance file can be found at "https://portals.broadinstitute.org/cmap/" -> downloads
 # correct vehicle instances
-# if cmap instance file contains entries with
-# ".H07.G08.E09.D10.B11.A12" or similar as vehicle
-# run this to correct it
+# if cmap instance file contains entries with ".H07.G08.E09.D10.B11.A12"
+# or similar as vehicle run this to correct it
 # also fixes common formatting errors in the data
 
 
@@ -13,7 +13,7 @@ path_to_cmap_instance_file = "path/to/file.csv"
 path_to_fixed_output_file = "path/to/output/file.csv"
 
 infile = open(path_to_cmap_instance_file, "r")
-outfile = open("C:\\Users\\thoma\\Documents\\Uni\\bachelor\\cMap\\cmap_instances_corrected2.csv", "w", newline='')
+outfile = open(path_to_fixed_output_file, "w", newline='')
 
 inreader = csv.reader(infile, delimiter=',', quotechar='"')
 outwriter = csv.writer(outfile, delimiter=',', quotechar='"')
