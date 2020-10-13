@@ -5,7 +5,6 @@
 Files:
 
   BA_thesis_Thomas_Eska.pdf
-  
     the thesis
     
   README.md
