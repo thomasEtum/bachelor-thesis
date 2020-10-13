@@ -4,10 +4,12 @@
 
 Files:
 
-  BA_thesis_Thomas_Eska.pdf  
-    the thesis  
-  README.md  
-    you are here  
+ BA_thesis_Thomas_Eska.pdf  
+  
+  the thesis  
+ README.md  
+ 
+  you are here  
 
   preprocessing:  
     scripts to preprocess the CMAP dataset  
