@@ -49,6 +49,3 @@ Files:
       supplementary plots from celline_comparison_grn.R
     - genie3_comparison_plots
       supplementary plots from genie3_comparison.R
- 
-      
-      
