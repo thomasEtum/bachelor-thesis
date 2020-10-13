@@ -81,4 +81,4 @@ cmap_fc <- cmap_fc[, lapply(.SD, mean, na.rm=F), by=genes]
 
 
 # write.table(cmap_fc, file=path_to_cmap_fc, quote = F, col.names = T, row.names = F, sep = "\t")
-
+# long_cmap <- melt(cmap_fc, id.vars = "genes", variable.name = "drug", value.name = "fc")
