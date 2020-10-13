@@ -8,6 +8,7 @@ Files:
     the thesis  
   README.md  
     you are here  
+
   preprocessing:  
     scripts to preprocess the CMAP dataset  
     - correct_cmap_instances_file.py  
@@ -18,6 +19,7 @@ Files:
       read the CEL files and apply gcrma  
     - combat_foldchanges.R  
       apply combat batch correction and calculate foldchanges  
+
   prelimenary:  
     scripts for GSEA, genespace  
     - knockTF_process.R  
@@ -32,7 +34,8 @@ Files:
       contains TF target data as a python dictionary  
     - drugname_uniprot_dict.pickle  
       contains associations of drugs and genes as a python dictionary  
-  GRN:  
+
+GRN:  
     scripts used in GRN analysis  
     - grn_inference  
       use ARACNE or MRNET to infer GRNs from gene expression data  
