@@ -4,7 +4,7 @@ __! All scripts contain pathnames that have to be changed before execution !__
 
 Files:
 
- * BA_thesis_Thomas_Eska.pdf
+ * BA_thesis_Thomas_Eska.pdf  
    the thesis  
  * README.md  
    you are here  
