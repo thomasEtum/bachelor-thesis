@@ -5,9 +5,9 @@ __! All scripts contain pathnames that have to be changed before execution !__
 Files:
 
  * BA_thesis_Thomas_Eska.pdf
-  * the thesis  
+   * the thesis  
  * README.md  
-  * you are here  
+   * you are here  
 
   preprocessing:  
     scripts to preprocess the CMAP dataset  
