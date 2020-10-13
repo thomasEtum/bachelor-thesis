@@ -1,15 +1,13 @@
 # Scripts, supplementary results and data for my bachelor's thesis.
 
-! All scripts contain pathnames that have to be changed before execution !
+__! All scripts contain pathnames that have to be changed before execution !__
 
 Files:
 
- BA_thesis_Thomas_Eska.pdf  
-  
-  the thesis  
- README.md  
- 
-  you are here  
+ * BA_thesis_Thomas_Eska.pdf
+  * the thesis  
+ * README.md  
+  * you are here  
 
   preprocessing:  
     scripts to preprocess the CMAP dataset  
